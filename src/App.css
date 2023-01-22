@@ -1,0 +1,77 @@
+body {
+
+  background: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+form {
+  background-color: #254a53;
+  opacity: 85%;
+}
+
+hr {
+  background-color: rgb(255, 255, 255);
+  height: 3px;
+
+}
+
+p {
+  opacity: 1;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.c1 {
+  background-color: #50CBFF;
+  color: white
+}
+
+.c2 {
+
+  background-color: #9DE430;
+  color: white
+}
+
+.c22 {
+  background-color: #FF97BC;
+  color: white;
+}
+
+.c3 {
+  background-color: #8D4AFF;
+  color: white;
+}
+
+.c4 {
+  background-color: #FFCC1B;
+  color: white
+}
+
+.c5 {
+  background-color: #50CBFF;
+  color: white;
+}
+
+.c6 {
+  background-color: #9DE430;
+  color: white
+}
+
+.ta {
+  height: 100%;
+}
+
+.tao {
+  background-color: #FC792F;
+
+}
+
+.active {
+  font-weight: bold;
+  background-color: #50CBFF;
+  padding: 0.2em;
+  border-radius: 0.2em;
+}

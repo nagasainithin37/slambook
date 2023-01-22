@@ -1,0 +1,18 @@
+p {
+    color: black;
+}
+
+.modhead {
+    background-color: #F64C72;
+}
+
+.modbody {
+    background-color: #a6c088;
+}
+
+.inside {
+    background-image: linear-gradient(to right, #ffafbd, #ffc3a0);
+}
+
+
+/* // rgba(255, 0, 0, 0),rgba(255, 0, 0, 1) */
